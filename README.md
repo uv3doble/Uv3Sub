@@ -35,7 +35,7 @@ Uv3Sub es una herramienta de reconocimiento de subdominios escrita en Python. Re
 1. **Clona el repositorio desde GitHub:**
     
     ```
-    git clone [https://github.com/uv3doble/Uv3Sub.git](https://github.com/uv3doble/Uv3Sub.git)
+    git clone https://github.com/uv3doble/Uv3Sub.git
     cd Uv3Sub
     ```
     
